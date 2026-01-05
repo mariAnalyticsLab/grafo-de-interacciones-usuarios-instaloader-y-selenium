@@ -51,6 +51,7 @@ Comprensión práctica de:
 - matplotlib
 - regex
 - emoji
+- Google Colab/Jupyter Notebook
 
 ## 📁 Datos y archivos importantes
 - Grafo_de_interacciones_usuarios_Instaloader_y_Selenium.ipynb
