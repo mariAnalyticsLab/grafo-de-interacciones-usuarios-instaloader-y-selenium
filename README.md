@@ -4,9 +4,9 @@
 #### Selenium · Undetected Chromedriver · Instaloader · NetworkX
 
 ## 📌 Descripción del algoritmo
-Este proyecto implementa un flujo de recolección y análisis de interacciones en Instagram mediante técnicas de web scraping y análisis de redes.
-A partir de una cuenta objetivo, el algoritmo extrae información pública de publicaciones, comentarios, menciones y usuarios etiquetados, para finalmente construir un grafo de interacciones reales entre usuarios.
-El objetivo principal es modelar las relaciones sociales visibles en una cuenta de Instagram utilizando grafos, lo que permite analizar patrones de interacción, centralidad y conexiones entre usuarios.
+- Este proyecto implementa un flujo de recolección y análisis de interacciones en Instagram mediante técnicas de web scraping y análisis de redes.
+- A partir de una cuenta objetivo, el algoritmo extrae usuarios públicos de publicaciones, comentarios, menciones y usuarios etiquetados, para finalmente construir un grafo de interacciones (centralidad) reales entre usuarios.
+- El objetivo principal es modelar las relaciones sociales visibles en una cuenta de Instagram utilizando grafos, lo que permite analizar patrones de interacción, centralidad y conexiones entre usuarios.
 
 ## ⚙️ Funcionamiento básico
 El algoritmo se divide en varias etapas:
